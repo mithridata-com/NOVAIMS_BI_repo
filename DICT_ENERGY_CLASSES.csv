@@ -1,0 +1,10 @@
+EnergyType;EnergyClass
+Biofuel;Renewable
+Hydro;Renewable
+Solar;Renewable
+Wind;Renewable
+Other renewables;Renewable
+Oil;Non-renewable
+Gas;Non-renewable
+Nuclear;Non-renewable
+Coal;Non-renewable
