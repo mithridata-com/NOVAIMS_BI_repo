@@ -1,0 +1,29 @@
+﻿indicator;link
+GDP;https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.MKTP.CD&country=
+GDP_change;https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.MKTP.KD.ZG&country=
+GDP_per_capita;https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.PCAP.CD&country=
+GDP_per_capita_change;https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.PCAP.KD.ZG&country=
+GDP_per_capita_PPP;https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.PCAP.PP.CD&country=
+Electricity_access;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.ACCS.ZS&country=
+Electricity_access_urban;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.ACCS.UR.ZS&country=
+Electricity_access_rural;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.ACCS.RU.ZS&country=
+Electricity_consumption;https://databank.worldbank.org/reports.aspx?source=2&series=EG.USE.ELEC.KH.PC&country=
+Electricity_transmission_losses;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.LOSS.ZS&country=
+Electricity_clean_energy_use;https://databank.worldbank.org/reports.aspx?source=2&series=EG.USE.COMM.CL.ZS&country=
+Electricity_from_renewable;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.RNEW.ZS&country=
+Electricity_from_renewable_except_hydro;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.RNWX.ZS&country=
+Electricity_from_hydro;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.HYRO.ZS&country=
+Electricity_from_coal;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.COAL.ZS&country=
+Electricity_from_oil;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.PETR.ZS&country=
+Electrivity_from_nuclear;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.NUCL.ZS&country=
+Electricity_from_gas;https://databank.worldbank.org/reports.aspx?source=2&series=EG.ELC.NGAS.ZS&country=
+Energy_combustible_waste;https://databank.worldbank.org/reports.aspx?source=2&series=EG.USE.CRNW.ZS&country=
+Energy_from_alternative_and_nuclear;https://databank.worldbank.org/reports.aspx?source=2&series=EG.USE.COMM.CL.ZS&country=
+Energy_import;https://databank.worldbank.org/reports.aspx?source=2&series=EG.IMP.CONS.ZS&country=
+Energy_from_fossil_consumption;https://databank.worldbank.org/reports.aspx?source=2&series=EG.USE.COMM.FO.ZS&country=
+Energy_from_renewable;https://databank.worldbank.org/reports.aspx?source=2&series=EG.FEC.RNEW.ZS&country=
+Emissions_methane_from_energy;https://databank.worldbank.org/reports.aspx?source=2&series=EN.ATM.METH.EG.ZS&country=
+Emissions_nitrous_oxide_from_energy;https://databank.worldbank.org/reports.aspx?source=2&series=EN.ATM.NOXE.EG.ZS&country=
+Emissions_CO2_from_energy;https://databank.worldbank.org/reports.aspx?source=2&series=EN.ATM.CO2E.GF.ZS&country=
+GDP per capita, PPP (constant 2017 international $);https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD
+Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population);https://data.worldbank.org/indicator/SI.POV.DDAY
